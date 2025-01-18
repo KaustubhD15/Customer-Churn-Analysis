@@ -144,12 +144,3 @@ This project is developed using **R** in **RStudio**, focusing on visualizing te
 
 <br>
 
-### 📈 **Other Visualizations** 
-![image](https://github.com/user-attachments/assets/befcb4ab-92b3-4ea5-bc3d-1102bcb1e756)
-![image](https://github.com/user-attachments/assets/7ede06b5-7f11-491a-95fe-7ab8dfa9d4cf)
-![image](https://github.com/user-attachments/assets/03c7072a-f85c-4a73-9984-5708278badd6)
-![image](https://github.com/user-attachments/assets/3bc15de6-924e-4fd2-849c-8103b3b218dd)
-![image](https://github.com/user-attachments/assets/08c4744f-1a6e-46de-99d0-8019a6d16769)
-
-
-<p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
