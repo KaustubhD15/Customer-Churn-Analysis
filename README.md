@@ -1,5 +1,5 @@
 # 📞💡 Customer Churn Analysis for a Telecom Company  
-![alt text]((https://github.com/user-attachments/assets/d3317168-12e6-46ef-adb3-fdbce75f9f92](https://github.com/KaustubhD15/Customer-Churn-Analysis/blob/main/Customer%20churn%20analysis%20image.webp) "Title")
+![alt text](Customer churn analysis image.webp) "Title")
 
 
 ## 🌟 **Project Overview**  
