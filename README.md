@@ -1,5 +1,5 @@
 # 📞💡 Customer Churn Analysis for a Telecom Company  
-![alt text](Customer churn analysis image.webp) "Title")
+![alt text](Customer-churn-analysis-image.webp) "Title")
 
 
 ## 🌟 **Project Overview**  
